@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADVANCED\\Desktop\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTest\\UserRegistrationMSTest.csproj": {}
+    "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTest\\UserRegistrationMSTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADVANCED\\Desktop\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTest\\UserRegistrationMSTest.csproj": {
+    "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTest\\UserRegistrationMSTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADVANCED\\Desktop\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTest\\UserRegistrationMSTest.csproj",
+        "projectUniqueName": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTest\\UserRegistrationMSTest.csproj",
         "projectName": "UserRegistrationMSTest",
-        "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTest\\UserRegistrationMSTest.csproj",
+        "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTest\\UserRegistrationMSTest.csproj",
         "packagesPath": "C:\\Users\\ADVANCED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADVANCED\\Desktop\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTest\\obj\\",
+        "outputPath": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADVANCED\\AppData\\Roaming\\NuGet\\NuGet.Config",

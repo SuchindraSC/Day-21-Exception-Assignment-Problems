@@ -11,3 +11,16 @@ C:\Users\ADVANCED\Desktop\Day 21 Assignment Problems\UserRegistrationMSTest\User
 C:\Users\ADVANCED\Desktop\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\obj\Debug\netcoreapp3.1\UserRegistrationMSTest.dll
 C:\Users\ADVANCED\Desktop\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\obj\Debug\netcoreapp3.1\UserRegistrationMSTest.pdb
 C:\Users\ADVANCED\Desktop\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\obj\Debug\netcoreapp3.1\UserRegistrationMSTest.genruntimeconfig.cache
+C:\Users\ADVANCED\Desktop\Assignments\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\bin\Debug\netcoreapp3.1\UserRegistrationMSTest.exe
+C:\Users\ADVANCED\Desktop\Assignments\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\bin\Debug\netcoreapp3.1\UserRegistrationMSTest.deps.json
+C:\Users\ADVANCED\Desktop\Assignments\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\bin\Debug\netcoreapp3.1\UserRegistrationMSTest.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\Assignments\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\bin\Debug\netcoreapp3.1\UserRegistrationMSTest.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\Assignments\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\bin\Debug\netcoreapp3.1\UserRegistrationMSTest.dll
+C:\Users\ADVANCED\Desktop\Assignments\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\bin\Debug\netcoreapp3.1\UserRegistrationMSTest.pdb
+C:\Users\ADVANCED\Desktop\Assignments\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\obj\Debug\netcoreapp3.1\UserRegistrationMSTest.csproj.AssemblyReference.cache
+C:\Users\ADVANCED\Desktop\Assignments\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\obj\Debug\netcoreapp3.1\UserRegistrationMSTest.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\Assignments\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\obj\Debug\netcoreapp3.1\UserRegistrationMSTest.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\Assignments\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\obj\Debug\netcoreapp3.1\UserRegistrationMSTest.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\Assignments\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\obj\Debug\netcoreapp3.1\UserRegistrationMSTest.dll
+C:\Users\ADVANCED\Desktop\Assignments\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\obj\Debug\netcoreapp3.1\UserRegistrationMSTest.pdb
+C:\Users\ADVANCED\Desktop\Assignments\Day 21 Assignment Problems\UserRegistrationMSTest\UserRegistrationMSTest\obj\Debug\netcoreapp3.1\UserRegistrationMSTest.genruntimeconfig.cache

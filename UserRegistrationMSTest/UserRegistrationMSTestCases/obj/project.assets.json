@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADVANCED\\Desktop\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTestCases\\UserRegistrationMSTestCases.csproj",
+      "projectUniqueName": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTestCases\\UserRegistrationMSTestCases.csproj",
       "projectName": "UserRegistrationMSTestCases",
-      "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTestCases\\UserRegistrationMSTestCases.csproj",
+      "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTestCases\\UserRegistrationMSTestCases.csproj",
       "packagesPath": "C:\\Users\\ADVANCED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADVANCED\\Desktop\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTestCases\\obj\\",
+      "outputPath": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTestCases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADVANCED\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6156,8 +6156,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ADVANCED\\Desktop\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTest\\UserRegistrationMSTest.csproj": {
-              "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTest\\UserRegistrationMSTest.csproj"
+            "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTest\\UserRegistrationMSTest.csproj": {
+              "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 21 Assignment Problems\\UserRegistrationMSTest\\UserRegistrationMSTest\\UserRegistrationMSTest.csproj"
             }
           }
         }
